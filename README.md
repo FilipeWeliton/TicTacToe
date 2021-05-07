@@ -1,4 +1,4 @@
-# TicTacTo
+# TicTacToe (Jogo da Velha)
 My First GUI
 
 
